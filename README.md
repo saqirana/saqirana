@@ -136,7 +136,7 @@ saqib = {
 ## 📈 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=saqirana&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=saqirana&show_icons=true&theme=midnight-purple&hide_border=true"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqirana&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
 </div>
 
