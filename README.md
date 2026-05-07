@@ -31,7 +31,7 @@ saqib = {
 
 ---
 
-## 🔥 Hire Me For
+## 🔥 Areas of Expertise
 
 <table>
 <tr>
