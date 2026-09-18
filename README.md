@@ -12,7 +12,7 @@
 
 ## 🤖 What I Build
 
-I design and ship **production-grade AI systems** — from autonomous AI agents and RAG pipelines to scalable cloud backends. If it involves LLMs, embeddings, or intelligent automation, I've probably built it.
+I design and ship **production-grade AI systems | SaaS Platforms** from autonomous AI agents and RAG pipelines to scalable cloud backends. If it involves LLMs, embeddings, or intelligent automation, I've probably built it.
 
 ```python
 saqib = {
