@@ -153,7 +153,6 @@ I'm available for **freelance projects**, **contract work**, and **consulting** 
 - ⚡ **Performance Engineering** — optimize slow APIs and databases
 - ☁️ **AWS Serverless** — event-driven, cost-efficient cloud backends
 
-> 📬 **Reach out:** [saqi_rana@hotmail.com](mailto:saqi_rana@hotmail.com) · [LinkedIn](https://linkedin.com/in/saqirana)
 
 ---
 
